@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jakub
-==============================================================================================================================
+Hello there! My name is Jakub
+=============================
 
-I am an aspiring Data Engineer
+and I am an aspiring Data Engineer
 ------------------------------
+<samp>Location: Gliwice, Poland | </samp>
 
 I decided to change my career path to do less managing and more Python and SQL development. I am currently learning at Turing College in the Data Engineering course. Since the beggining of the course I had several opportunities to learn:
 * Python
