@@ -15,7 +15,7 @@ I am getting hands-on experience and lots of theory about:
 * **Data Mesh**
 
 ### 👔 11+ years of experience in IT
-presales | software administration | team leader | project management | product management
+presales | software administration | team leader | project management | product management | frontend management
 
 ### 😎 15+ years of Linux & open source enthusiasm
 GNU and non-GNU\linux | docker | mysql | postgresql | Python
