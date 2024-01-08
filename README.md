@@ -1,40 +1,21 @@
-Hello there!
-============
+# Hi 👋 My name is Jakub Kluz
 
- My name is Jakub and I am an aspiring Data Engineer
-----------------------------------------------------
-<samp>Location: Gliwice, Poland | <a href="https://www.linkedin.com/in/jakub-kluz-346b7958/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-</picture>
-</a></samp>
+## I am an aspiring ▶️ *Data Engineer* ◀️ **looking for a job**
+🌍 Gliwice, Poland 👨 he/him ⚡ [LinkedIn](https://www.linkedin.com/in/jakub-kluz-346b7958/)
 
-I decided to change my career path to do less managing and more Python and SQL development. I am currently learning at Turing College in the Data Engineering course. Since the beggining of the course I had several opportunities to learn:
-* Python
-* SQL
-* Airflow
-* dbt
-* Docker
-* Kubernetes
-* 
+### 🎓 currently learning at [Data Engineering course on Turing College](https://www.turingcollege.com/data-engineering)
+I am getting hands-on experience and lots of theory about:
+* **Python** (Polars, Pandas)
+* **SQL** (PostgreSQL, MySQL, SQL Server, ClickHouse)
+* **Airflow**
+* **dbt**
+* **Docker**
+* **Data Warehousing**
+* **Data Modeling** (Kimball)
+* **Data Mesh**
 
-*   🌍  I'm based in Gliwice, Poland
-*   🧠  I'm learning dbt
+### 👔 11+ years of experience in IT
+presales | software administration | team leader | project management | product management
 
-                    
-### Socials
-<p align="left">
-<a href="https://www.github.com/zakapior" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/jakub-kluz-346b7958/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-</picture>
-</a></p>
+### 😎 15+ years of Linux & open source enthusiasm
+GNU and non-GNU\linux | docker | mysql | postgresql | Python
