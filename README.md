@@ -1,7 +1,7 @@
 ## Hi! 👋 My name is Jakub
 
 # I am ▶️ *Junior Data Engineer* ◀️ **looking for a job**
-:poland: [Gliwice, Poland](https://www.openstreetmap.org/relation/2103532) 💬 Polish/English 🧔 he/him ⚡ [LinkedIn](https://www.linkedin.com/in/jakub-kluz-346b7958/) 🎵 [Last.fm](https://www.last.fm/user/wolfshade666) 🚲 [Strava](https://www.strava.com/athletes/102814613) ⛷️
+:poland: [Gliwice, Poland](https://www.openstreetmap.org/relation/2103532) 💬 Polish/English 🧔 he/him ⚡ [LinkedIn](https://www.linkedin.com/in/jkluz/) 🎵 [Last.fm](https://www.last.fm/user/wolfshade666) 🚲 [Strava](https://www.strava.com/athletes/102814613) ⛷️
 
 ### 🎓 currently learning at [Data Engineering course on Turing College](https://www.turingcollege.com/data-engineering)
 * **Python** (Polars, Pandas)
